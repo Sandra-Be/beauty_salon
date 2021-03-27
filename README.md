@@ -1,1 +1,1 @@
-# beauty_salon
+# Dee's Beauty & Nails
