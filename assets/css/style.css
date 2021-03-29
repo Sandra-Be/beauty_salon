@@ -11,13 +11,16 @@ body {
     color: #777777;
 }
 
+
 /*---------------------------- Header ---*/
 
 #logo {
   float: left;
-  width: 100px;
-  height: 40px;
+  width: 110px;
+  height: 50px;
   margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
 
 #menu {
@@ -43,27 +46,41 @@ body {
 
 /*----------------------------- Hero-image ---*/
 
-#hero-image {
-  height: 500px;
-  width: 100%; /* image will fill all screen horizontally*/
-  
+.column {
+  float: left;
+  width: 25%;
+  padding: 1px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+#hero-image div {
   animation-name: hero-zoom;  /*combaining animation with actual image*/
   animation-duration: 5s;    /*animation will start after 5 sec when webpage loaded*/
   animation-fill-mode: forwards;  /*after animation enlarge to 110% it will stay that way*/
 }
 
-#hero-outer {
-  height: 500px; /* same as child element has*/
-  width: 100%;
-  overflow: hidden;
-  position: relative; /* image is conected with cover text box and flows together*/
-}
-
-@keyframes hero-zoom {    /*animation*/
+@keyframes hero-zoom {    
   from {
-    transform: scale(1); /* from 100%*/
+    transform: scale(0.9); 
   }
   to {
-    transform: scale(1.1); /* to 110 %*/
+    transform: scale(1); 
   }
+}
+
+/*-------------------------------- Footer ---*/
+
+footer {
+	
+	padding: 1em;
+	text-align: center;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
 }
