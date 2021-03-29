@@ -40,6 +40,30 @@ body {
   border-bottom: 1px solid #777777; /*when hovering over menu bar it shows line under choosen menu link*/
 }
 
-.active {
-  border-bottom: 1px solid #777777; /*shows the active menu link underlined when currently on it*/
+
+/*----------------------------- Hero-image ---*/
+
+#hero-image {
+  height: 500px;
+  width: 100%; /* image will fill all screen horizontally*/
+  
+  animation-name: hero-zoom;  /*combaining animation with actual image*/
+  animation-duration: 5s;    /*animation will start after 5 sec when webpage loaded*/
+  animation-fill-mode: forwards;  /*after animation enlarge to 110% it will stay that way*/
+}
+
+#hero-outer {
+  height: 500px; /* same as child element has*/
+  width: 100%;
+  overflow: hidden;
+  position: relative; /* image is conected with cover text box and flows together*/
+}
+
+@keyframes hero-zoom {    /*animation*/
+  from {
+    transform: scale(1); /* from 100%*/
+  }
+  to {
+    transform: scale(1.1); /* to 110 %*/
+  }
 }
