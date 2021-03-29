@@ -40,5 +40,8 @@ This project is the best way to help clients achieve them suitable treatments th
 5. As a new client, I want to know how to contact the beautician, so I know how to enquire the information.
 6. As a client, I want to follow the salon media feed, so I can be up to date with latest information.
 
+**Wireframe mockups:**
+
+* Home
 
 
