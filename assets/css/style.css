@@ -74,7 +74,7 @@ body {
 }
 
 /*-------------------------------- Footer ---*/
-
+/*
 footer {
 	
 	padding: 1em;
@@ -83,4 +83,83 @@ footer {
     bottom: 0;
     right: 0;
     width: 100%;
+}
+*/
+
+#footer-area {
+    padding: 90px 0 60px 0;
+    background: rgb(245, 243, 243);
+    color: #777777;
+    
+}
+
+.footer-social {
+    margin-top: 20px;
+}
+
+.single-footer h3 {
+    font-weight: 500;
+    margin-bottom: 25px;
+    color: #777777;
+    font-family: Lato;
+}
+
+.link-area li {
+    padding: 5px 5px 5px 0;
+    list-style: none;
+}
+
+.link-area li a {
+    text-transform: capitalize;
+    color: #777777;
+    font-family: Lato;
+}
+
+.link-area li a i {
+    margin-right: 10px;
+    color: #777777;
+}
+
+.link-area {
+    padding: 0;
+}
+
+.single-footer p {
+    font-family: Lato;
+}
+.footer-social li a {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background: rgb(245, 243, 243);;
+}
+
+.footer-social li a i {
+    color: black;
+    padding: 8px;
+
+}
+/*
+.widget li {
+    float: left;
+    width: 50%;
+}
+
+widget li a img {
+    margin-bottom : -10px;
+    width: 100%;
+    height: 70px;
+}
+*/
+
+.copyright-area {
+    background: rgb(245, 243, 243);;
+    padding: 30px 0;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+copyright-area p {
+    font-weight: 600;
+    color: black;
 }

@@ -43,5 +43,60 @@ This project is the best way to help clients achieve them suitable treatments th
 **Wireframe mockups:**
 
 * Home
+* About Me 
+* Gallery
+* Pricing 
+* Contact Me 
+
+# Features
+
+Each page features a responsive navigation bar which leads to right page and section of website. Each page has footer with copyright information and social media icon linked to beautician’s social media page.
+
+**Home**
+
+**About Me**
+
+**Gallery**
+
+**Pricing**
+
+**Contact Me**
+
+The Contact Me page features a contact form. Form requests clients name, contact number and a box to leave a message. The bottom of the form contains a Send  Button.
+
+## Existing features 
+
+## Features to Implement in future
+
+# Technologies Used
+
+This project uses HTML and CSS programming languages.
+
+# Testing
+
+# Deployment
+
+## How to run this project locally
+
+# Credits
+
+## Content
+
+* The text for the Home, About Me and Pricing pages was created by Dee’s Beauty & Nails  and edited by Sandra Berzkalna.
+* The text for the rest of the website was created for Dee’s Beauty & Nails by Sandra Berzkalna.
+* All photos used on this website were obtained from the beautician at Dee’s Beauty & Nails.
+
+## Media 
+
+## Acknowledgements 
+
+I received inspiration for this project from my sister who created this Dee’s Beauty & Nails Private Salon.
+
+
+
+
+
+
+
 
 
