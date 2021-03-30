@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:300|Oswald');
+@import url('https://fonts.googleapis.com/css?family=Lato:300 400 500 600|Oswald');
 
 * {
     margin: 0;
@@ -11,22 +11,25 @@ body {
     color: #777777;
 }
 
+.uppercase {
+    text-transform: uppercase;
+}
+
 
 /*---------------------------- Header ---*/
 
 #logo {
   float: left;
-  width: 110px;
-  height: 50px;
-  margin-left: 30px;
-  margin-top: 30px;
-  margin-bottom: 20px;
+  width: 140px;
+  height: 60px;
+  margin: 30px 0 20px 50px;
 }
 
 #menu {
-  font-size: 100%;
+  font-size: 130%;
   list-style-type: none;
   letter-spacing: 1px;
+  color: #777777;
 }
 
 #menu li {
@@ -74,92 +77,37 @@ body {
 }
 
 /*-------------------------------- Footer ---*/
-/*
-footer {
-	
-	padding: 1em;
-	text-align: center;
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    width: 100%;
-}
-*/
 
-#footer-area {
-    padding: 90px 0 60px 0;
-    background: rgb(245, 243, 243);
+footer {
+ 
+    background-color: rgb(245, 243, 243);
     color: #777777;
+    min-width: 120px;
+    text-align: center;
+    
+    padding: 30px 0;
+    margin-top: 30px;
+    font-size: 100%;
     
 }
 
-.footer-social {
-    margin-top: 20px;
+.social-link a i {
+    width: 36px;
+    height: 36px;
+    padding: 5px;
+    border-radius: 50%;
+    font-size: 30px;
+    line-height: 10px;
+    text-align: center;
+    color: rgb(194, 191, 191);
+    background: rgb(245, 243, 243);
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
 
-.single-footer h3 {
-    font-weight: 500;
-    margin-bottom: 25px;
-    color: #777777;
-    font-family: Lato;
+.social-link a i:hover {
+    background: rgb(247, 224, 194);
 }
 
-.link-area li {
-    padding: 5px 5px 5px 0;
-    list-style: none;
-}
-
-.link-area li a {
-    text-transform: capitalize;
-    color: #777777;
-    font-family: Lato;
-}
-
-.link-area li a i {
-    margin-right: 10px;
-    color: #777777;
-}
-
-.link-area {
-    padding: 0;
-}
-
-.single-footer p {
-    font-family: Lato;
-}
-.footer-social li a {
-    width: 30px;
-    height: 30px;
-    display: inline-block;
-    background: rgb(245, 243, 243);;
-}
-
-.footer-social li a i {
-    color: black;
-    padding: 8px;
-
-}
-/*
-.widget li {
-    float: left;
-    width: 50%;
-}
-
-widget li a img {
-    margin-bottom : -10px;
-    width: 100%;
-    height: 70px;
-}
-*/
-
-.copyright-area {
-    background: rgb(245, 243, 243);;
-    padding: 30px 0;
-    margin-top: 30px;
-    border-radius: 5px;
-}
-
-copyright-area p {
-    font-weight: 600;
-    color: black;
-}
