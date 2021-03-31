@@ -94,28 +94,9 @@ body {
   }
 }
 
-/*-------------------------------- Club ethos ---*/
-/*
-#club-ethos {
-    height: 200px;
-}
 
-#left-side {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
-}
 
-#right-side {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-}
-
-#middle {
-    width: 33%;
-    margin: 0 auto;
-}
+/*-------------------------------- Features ---*/
 
 hr {
     border-top: 1px solid #777777;
@@ -123,34 +104,22 @@ hr {
     margin: 5px 0;
 }
 
-.left-side-heading {
-    width: 50%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+
+    
 }
 
-.right-side-heading {
-    width: 50%;
-    float: left;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
+.feature {
+    text-align: center;
+    margin-bottom: 40px;
 }
 
-.right-side-heading h2 {
-    text-align: right;
-}
-
-.right-side-heading p {
-    text-align: right;
-}
-
-#round-photo {
+.profile-photo {
     padding: 30px;
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
     border-style: solid;
     border-color: #746e6e;
@@ -158,52 +127,6 @@ hr {
     margin: 0 auto;
 }
 
-#circle-cover-bg {
-    height: 100%;
-    background: url(assets/images/profile/prof_photo.jpg) no-repeat center center;
-}
-
-
-@media screen and (max-width: 1393px) {
-    #club-ethos {
-        width: 65%;
-        height: 600px;
-        margin: 0 auto;
-    }
-
-    #left-side, #right-side {
-        width:100%;
-        float: left;
-        padding: 0;
-    }
-
-    hr {
-        display: none;
-    }
-}
-
-@media screen and (max-width: 943px) {
-    #club-ethos {
-        width: 90%;
-        height: 600px;
-        margin: 0 auto;
-    }
-
-    .left-side-heading, .right-side-heading {
-        width: inherit;
-    }
-
-    .left-side-heading p, .right-side-heading p {
-        text-align: center;
-        padding: 0 20px 0 20px;
-    }
-
-    .left-side-heading h2, .right-side-heading h2 {
-        width: 100%;
-        text-align: center;
-    }
-}
-*/
 /*-------------------------------- Footer ---*/
 
 footer {
