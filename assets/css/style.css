@@ -146,6 +146,8 @@ body {
     
 }
 
+
+
 .profile-photo {
     padding: 30px;
     width: 330px;
@@ -205,6 +207,7 @@ a .profile-photo:hover {
     font-family: Lato;
     margin-top: 30px;
     margin-bottom: 20px;
+    font-weight: bold;
 }
 
 .center-form {
@@ -222,6 +225,35 @@ button[type="submit"] {
 
 @media(min-width: 992px) {
     .center-form {
+        padding-top: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
+}
+
+}
+
+/*-------------------------------- Price list ---*/
+
+.bg-color-pricing {
+    background-color: #ffffff;
+}
+
+.pricing-heading {
+    font-family: Lato;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.pricing-table {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+@media(min-width: 992px) {
+    .pricing-table {
         padding-top: 30px;
         min-height: 240px;
         margin: 0 auto;
