@@ -44,6 +44,10 @@ body {
   color: inherit;
 }
 
+#menu .active a {
+    color: #313131;
+}
+
 #menu a:hover {
   border-bottom: 1px solid #313131; /*when hovering over menu bar it shows line under choosen menu link*/
   color: #313131;
