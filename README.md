@@ -61,11 +61,13 @@ Information about nails is linked with gallery, so clients can see by themselves
 
 **About Me**
 
-The Gallery page is laid out in columns of images. On the desktop gallery is laid into 3 columns, tablet into 2 columns and mobile devices shows one picture. Each picture has description underneath. Viewing images with description will provide clients more knowledge about beauticians work.
-
 **Gallery**
 
+The Gallery page is laid out in columns of images. On the desktop gallery is laid into 3 columns, tablet into 2 columns and mobile devices shows one picture. Each picture has description underneath. Viewing images with description will provide clients more knowledge about beauticians work.
+
 **Pricing**
+
+
 
 **Contact Me**
 
