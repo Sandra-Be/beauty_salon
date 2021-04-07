@@ -261,3 +261,54 @@ button[type="submit"] {
 }
 
 }
+
+/*-------------------------------- Gallery ---*/
+
+.gallery-block {
+    max-width: 80%;
+    margin: 0 auto;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+
+
+.gallery-block .gallery-heading h2 {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px; 
+    text-align: center;
+}
+
+.gallery-block .card-body h6 {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.gallery-block .card {
+    transition: 0.4s ease;
+}
+ 
+ .gallery-block .card img {
+     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+ }
+
+.gallery-block .card-body {
+    text-align: center;
+}
+
+.gallery-block .card-body p {
+    font-size: 15px;
+}
+
+.gallery-block img {
+    color: #212529;
+}
+
+
+
+.gallery-block .card {
+    margin-bottom: 30px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+}
+
