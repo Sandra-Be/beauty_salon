@@ -50,11 +50,18 @@ This project is the best way to help clients achieve them suitable treatments th
 
 # Features
 
-Each page features a responsive navigation bar which leads to right page and section of website. Each page has footer with copyright information and social media icon linked to beautician’s social media page.
+Each page features a responsive navigation bar which leads to right page and section of website. 
+The **hero image** shows up in each page to atract clients with a positive emotions giving them the sence of professonalism and trusfull environment.
+Each page has footer with copyright information and social media icon linked to beautician’s social media page.
 
 **Home**
 
+The Home page is introduction about beautician, brand and workplace through video, which will attract clients. Brand images allow redirect clients to them main websites and discover more about brand.
+Information about nails is linked with gallery, so clients can see by themselves the artwork on the nails by Dee.
+
 **About Me**
+
+The Gallery page is laid out in columns of images. On the desktop gallery is laid into 3 columns, tablet into 2 columns and mobile devices shows one picture. Each picture has description underneath. Viewing images with description will provide clients more knowledge about beauticians work.
 
 **Gallery**
 
