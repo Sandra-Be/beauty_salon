@@ -221,6 +221,21 @@ a .profile-photo:hover {
     font-weight: bold;
 }
 
+.grey-line-contact {
+    width: 50%;
+    margin: 0 auto;
+    height: 2px;
+    border: 0;
+    background-color: #777777;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.text-center h5 {
+    width: 50%;
+    margin: 0 auto;
+}
+
 .center-form {
     padding-top: 10px;
     margin: 0 auto;
@@ -258,7 +273,8 @@ button[type="submit"] {
 }
 
 .grey-line-pricing {
-    width: 70%;
+    width: 50%;
+    margin: 0 auto;
     height: 2px;
     border: 0;
     background-color: #777777;
@@ -271,6 +287,9 @@ button[type="submit"] {
     max-width: 70%;
 }
 
+.table th {
+    text-align: center;
+}
 @media(min-width: 992px) {
     .pricing-table {
         padding-top: 30px;
