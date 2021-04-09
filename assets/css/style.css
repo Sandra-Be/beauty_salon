@@ -257,6 +257,14 @@ button[type="submit"] {
     font-weight: bold;
 }
 
+.grey-line-pricing {
+    width: 70%;
+    height: 2px;
+    border: 0;
+    background-color: #777777;
+    text-align: center;
+}
+
 .pricing-table {
     padding-top: 10px;
     margin: 0 auto;
