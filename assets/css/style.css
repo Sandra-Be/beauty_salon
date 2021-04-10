@@ -114,6 +114,20 @@ body {
 
 /*-------------------------------- Features ---*/
 
+.feature-block {
+    max-width: 80%;
+    margin: 0 auto;
+    padding-bottom: 60px;
+    padding-top: 60px; 
+}
+
+.profile {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+}
+
 /*
 .grey-line {
     width: 100%;
