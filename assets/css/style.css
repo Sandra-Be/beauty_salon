@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     color: #777777;
 }
 
@@ -115,10 +115,38 @@ body {
 /*-------------------------------- Features ---*/
 
 .feature-block {
-    max-width: 80%;
+    max-width: 70%;
     margin: 0 auto;
     padding-bottom: 60px;
     padding-top: 60px; 
+}
+
+.feature-heading h1 {
+    font-family: "Lato", sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 70px;
+}
+
+.grey-line-feature {
+    width: 70%;
+    margin: 0 auto;
+    height: 2px;
+    border: 0;
+    background-color: #777777;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.feature-heading h2 {
+    font-family: "Lato", sans-serif;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
 }
 
 .profile {
@@ -128,66 +156,30 @@ body {
     min-height: 360px;
 }
 
-/*
-.grey-line {
-    width: 100%;
-    height: 2px;
-    border: 0;
-    background-color: #777777;
+.bg-color-nails-title {
+    background-color: rgb(252, 239, 222);
+}
+
+.nails-title {
     text-align: center;
 }
 
-.content-container {
-    clear: both;
-    padding-top: 40px;
-    padding-bottom: 0x;
-    text-align: center;
-    
-}
-
-.content-container h3 {
+.nails {
+    font-family: "Lato", sans-serif;
     font-weight: bold;
+    font-size: 46px;
+    margin-top: 50px;
+    color:#777777;
 }
 
-.nail-feature {
-    text-align: center;
-    margin-left: 80px;
-    font-family: Lato;
-    margin-top: 40px;
-    
+.description {
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    font-family: "Lato", sans-serif;
+    color: #777777;
 }
 
-.photo-feature {
-    padding: 0 30px 0 30px;
-    
-}
-
-.eyelash-feature {
-    text-align: center;
-    margin-right: 80px;
-    font-family: Lato;
-    margin-top: 40px;
-    
-}
-
-
-
-.profile-photo {
-    padding: 30px;
-    width: 330px;
-    height: 330px;
-    border-radius: 50%;
-    border-style: solid;
-    border-color: #746e6e;
-    border-width: 0.5px;
-    margin: 0 auto;
-}
-
-a .profile-photo:hover {
-    border-color: goldenrod;
-}
-
-*/
 
 /*-------------------------------- Footer ---*/
 
@@ -232,7 +224,7 @@ a .profile-photo:hover {
 }
 
 .contact-heading {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     margin-top: 30px;
     margin-bottom: 20px;
     font-weight: bold;
@@ -283,7 +275,7 @@ button[type="submit"] {
 }
 
 .pricing-heading {
-    font-family: Lato;
+    font-family: "Lato", sans-serif;
     margin-top: 30px;
     margin-bottom: 20px;
     font-weight: bold;
