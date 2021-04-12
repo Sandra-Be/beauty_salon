@@ -64,6 +64,8 @@ body {
   color: #313131;
 } 
 
+
+
 .navbar {
     margin: 0;
     border-right: 30px;
@@ -80,9 +82,7 @@ body {
     font-weight: bold;
 }
 
-.collapse li a {
-    text-align: center;
-}
+
 
 @media(min-width: 992px) {
     .navbar {
@@ -132,8 +132,8 @@ body {
 .feature-block {
     max-width: 70%;
     margin: 0 auto;
-    padding-bottom: 60px;
-    padding-top: 60px; 
+    padding-bottom: 30px;
+    padding-top: 30px; 
 }
 
 .feature-heading h1 {
@@ -143,6 +143,7 @@ body {
     font-weight: bold;
     text-align: center;
     font-size: 50px;
+    
 }
 
 .grey-line-feature {
@@ -168,12 +169,6 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    
-   
-    
-}
-
-.profile img {
     width: 115%;
     margin: 0;
     padding-right: 10px;
