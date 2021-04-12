@@ -133,6 +133,15 @@ body {
     padding-top: 30px; 
 }
 
+.profile {
+    background: url("../images/profile/prof_photo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+}
+
 .feature-heading h1 {
     font-family: "Lato", sans-serif;
     margin-top: 10px;
@@ -161,21 +170,22 @@ body {
     font-size: 30px;
 }
 
-.profile img {
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 115%;
-    margin: 0;
-    padding-right: 10px;
-}
-
-.bg-color-nails-title {
+.bg-color-nails {
     background-color: rgb(252, 239, 222);
+    margin-left: 20px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
 }
 
 .nails-title {
     text-align: center;
+}
+
+.nails-title a {
+    text-decoration: none;
+}
+
+.bg-color-nails a p:hover {
+    color: red;
 }
 
 .nails {
@@ -194,19 +204,28 @@ body {
     color: #777777;
 }
 
-.menuitem {
-    height: 120px;
-    padding: 0;
+.brand-container {
+    margin-left: 20px;
+    margin-top: 25px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+.emi-brand {
+    background: url("../images/profile/emi_logo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 200px;
     
 }
 
-#nav {
-    margin-top: 10px;
-}
-
-#nav a img {
-    height: 150px;
-    width: 263px;
+.staleks-brand {
+    background: url("../images/profile/staleks_logo3.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 200px;
+    
 }
 
 /*-------------------------------- Footer ---*/
