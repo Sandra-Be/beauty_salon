@@ -177,12 +177,12 @@ body {
     width: 115%;
     margin: 0;
     padding-right: 10px;
-    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+    
 }
 
 .bg-color-nails-title {
     background-color: rgb(252, 239, 222);
-    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+    
 }
 
 .nails-title {
@@ -208,7 +208,7 @@ body {
 .menuitem {
     height: 120px;
     padding: 0;
-    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+    
 }
 
 #nav {
@@ -357,7 +357,7 @@ button[type="submit"] {
 @media(min-width: 992px) {
     .pricing-table {
         padding-top: 30px;
-        min-height: 240px;
+        min-height: 360px;
         margin: 0 auto;
         max-width: 50%;
     }
