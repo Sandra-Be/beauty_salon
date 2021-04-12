@@ -14,10 +14,11 @@ body {
 .uppercase {
     text-transform: uppercase;
 }
+
 .container-fluid {
-     padding: 0;
-     margin: 0;
-     position: absolute;
+    padding: 0;
+    margin: 0;
+    position: absolute;
  }
 
  .grey-line {
@@ -64,8 +65,6 @@ body {
   color: #313131;
 } 
 
-
-
 .navbar {
     margin: 0;
     border-right: 30px;
@@ -81,8 +80,6 @@ body {
 .navbar .navbar-nav a {
     font-weight: bold;
 }
-
-
 
 @media(min-width: 992px) {
     .navbar {
@@ -107,9 +104,6 @@ body {
   display: table;
 }
 
-
-
-
 #hero-image div {
   animation-name: hero-zoom;
   animation-duration: 5s;
@@ -124,8 +118,6 @@ body {
     transform: scale(1); 
   }
 }
-
-
 
 /*-------------------------------- Features ---*/
 
@@ -143,7 +135,6 @@ body {
     font-weight: bold;
     text-align: center;
     font-size: 50px;
-    
 }
 
 .grey-line-feature {
@@ -172,12 +163,10 @@ body {
     width: 115%;
     margin: 0;
     padding-right: 10px;
-    
 }
 
 .bg-color-nails-title {
     background-color: rgb(252, 239, 222);
-    
 }
 
 .nails-title {
@@ -215,12 +204,9 @@ body {
     width: 263px;
 }
 
-
-
 /*-------------------------------- Footer ---*/
 
 .footer-frame {
- 
     background-color: rgb(245, 243, 243);
     color: #777777;
     min-width: 120px;
@@ -228,10 +214,7 @@ body {
     padding: 30px 0;
     margin-top: 30px;
     font-size: 100%;
-    
 }
-
-
 
 .social-link a i {
     width: 40px;
@@ -255,7 +238,6 @@ body {
 
 @media(min-width: 992px) {
     .footer-frame {
- 
         background-color: rgb(245, 243, 243);
         color: #777777;
         min-width: 120px;
@@ -314,8 +296,7 @@ button[type="submit"] {
         min-height: 240px;
         margin: 0 auto;
         max-width: 50%;
-}
-
+    }
 }
 
 /*-------------------------------- Price list ---*/
@@ -349,6 +330,7 @@ button[type="submit"] {
 .table th {
     text-align: center;
 }
+
 @media(min-width: 992px) {
     .pricing-table {
         padding-top: 30px;
@@ -356,9 +338,6 @@ button[type="submit"] {
         margin: 0 auto;
         max-width: 50%;
     }
-
-    
-
 }
 
 /*-------------------------------- Gallery ---*/
@@ -369,8 +348,6 @@ button[type="submit"] {
     padding-bottom: 60px;
     padding-top: 60px;
 }
-
-
 
 .gallery-block .gallery-heading h2 {
     font-weight: bold;
@@ -388,9 +365,9 @@ button[type="submit"] {
     transition: 0.4s ease;
 }
  
- .gallery-block .card img {
-     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
- }
+.gallery-block .card img {
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
+}
 
 .gallery-block .card-body {
     text-align: center;
@@ -403,8 +380,6 @@ button[type="submit"] {
 .gallery-block img {
     color: #212529;
 }
-
-
 
 .gallery-block .card {
     margin-bottom: 30px;
