@@ -18,7 +18,7 @@ body {
 .container-fluid {
     padding: 0;
     margin: 0;
-    position: absolute;
+    
  }
 
  .grey-line {
@@ -38,6 +38,7 @@ body {
   width: 140px;
   height: 60px;
   margin: 30px 0 20px 50px;
+  
 }
 
 #menu {
@@ -93,6 +94,8 @@ body {
 
 
 /*----------------------------- Hero-image ---*/
+
+
 
 .column {
   float: left;
