@@ -43,7 +43,6 @@ This project is the best way to help clients achieve them suitable treatments th
 **Wireframe mockups:**
 
 * Home
-* About Me 
 * Gallery
 * Pricing 
 * Contact Me 
@@ -58,8 +57,6 @@ Each page has footer with copyright information and social media icon linked to 
 
 The Home page is introduction about beautician, brand and workplace through video, which will attract clients. Brand images allow redirect clients to them main websites and discover more about brand.
 Information about nails is linked with gallery, so clients can see by themselves the artwork on the nails by Dee.
-
-**About Me**
 
 **Gallery**
 
@@ -99,7 +96,7 @@ This project uses HTML and CSS programming languages.
 
 ## Acknowledgements 
 
-I received inspiration for this project from my sister who created this Dee’s Beauty & Nails Private Salon.
+I received inspiration for this project from my sister who created this Dee’s Nails & Beauty Private Salon.
 
 
 
