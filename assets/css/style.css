@@ -8,7 +8,7 @@
 
 body {
     font-family: "Lato", sans-serif;
-    color: #777777;
+    color: #5e5c5c;
 }
 
 .uppercase {
@@ -45,7 +45,7 @@ body {
   font-size: 120%;
   list-style-type: none;
   letter-spacing: 1px;
-  color: #777777;
+  color: #5e5c5c;
   margin-left: 50px;
 }
 
@@ -64,8 +64,8 @@ body {
 }
 
 #menu a:hover {
-  border-bottom: 1px solid #313131;
-  color: #313131;
+  border-bottom: 1px solid red;
+  color: red;
 } 
 
 .navbar {
@@ -193,7 +193,7 @@ body {
     font-weight: bold;
     font-size: 46px;
     margin-top: 20px;
-    color:#777777;
+    color:#5e5c5c;
 }
 
 .description {
@@ -201,7 +201,7 @@ body {
     margin-top: 10px;
     margin-bottom: 20px;
     font-family: "Lato", sans-serif;
-    color: #777777;
+    color: #5e5c5c;
 }
 
 .brand-container {
@@ -232,20 +232,21 @@ body {
 
 .footer-heading {
     font-family: 'Lato', sans-serif;
-    font-weight: bold;
-    color:#777777;
+    font-weight: 200;
+    color:#5e5c5c;
+    
 }
 
 footer {
     background-color: rgb(245, 243, 243);
-    color:#777777;
+    color:#5e5c5c;
     min-height: 100px;
     margin: 0;
 }
 
 .price-list-pdf i {
     font-size: 18px;
-    color:#777777;
+    color:#5e5c5c;
     text-align: center;
     padding-left: 5px;
     transition: all 0.35s ease-in-out;
@@ -260,7 +261,7 @@ footer {
 
 .social-link a i {
     font-size: 22px;
-    color:#777777;
+    color:#5e5c5c;
     text-align: center;
     padding-left: 5px;
     transition: all 0.35s ease-in-out;
@@ -288,6 +289,7 @@ footer {
     margin-top: 30px;
     margin-bottom: 20px;
     font-weight: bold;
+    color: #5e5c5c;
 }
 
 .grey-line-contact {
@@ -303,6 +305,7 @@ footer {
 .text-center h5 {
     width: 50%;
     margin: 0 auto;
+    color: #5e5c5c;
 }
 
 .center-form {
@@ -385,8 +388,9 @@ button[type="submit"] {
 }
 
 .gallery-block .card-body h6 {
-    font-size: 17px;
+    font-size: 20px;
     font-weight: bold;
+    color: #5e5c5c;
 }
 
 .gallery-block .card {
@@ -402,7 +406,8 @@ button[type="submit"] {
 }
 
 .gallery-block .card-body p {
-    font-size: 15px;
+    font-size: 17px;
+    font-weight: bold;
 }
 
 .gallery-block img {
