@@ -376,7 +376,7 @@ button[type="submit"] {
 .gallery-block {
     max-width: 80%;
     margin: 0 auto;
-    padding-bottom: 60px;
+    padding-bottom: 30px;
     padding-top: 60px;
 }
 
@@ -419,3 +419,11 @@ button[type="submit"] {
     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.15);
 }
 
+.gallery-back-link a {
+    text-align: center;
+    color:#5e5c5c;
+    font-size: 15px;
+}
+.gallery-back-link a:hover {
+    color: red;
+}
