@@ -38,7 +38,7 @@ body {
   width: 140px;
   height: 60px;
   margin: 30px 0 20px 50px;
-  
+  background-repeat: no-repeat;
 }
 
 #menu {
@@ -380,6 +380,7 @@ button[type="submit"] {
     background-color: #777777;
     text-align: center;
 }
+
 .pricing-table {
     margin: 0 auto;
     width: 70%;
@@ -391,10 +392,11 @@ button[type="submit"] {
 
 .pricing-table table {
    max-width: 100%;
+   
 }
 
 .pricing-table td {
-    border-color: solid 1px #ccc;
+    border: solid 1px #ccc;
     text-align: center;
     font-family: 'Lato', sans-serif;
     color: #5e5c5c;
@@ -405,22 +407,29 @@ button[type="submit"] {
     display: none;
 }
 
-
-
 .pricing-table th {
     text-align: center;
     font-weight: bold;
     font-family: 'Lato', sans-serif;
     color: #5e5c5c;
     font-size: 22px;
+    background-color: rgb(245, 243, 243);
+    border: solid 1px #777777;
+}
+
+.pricing-table .treatment {
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    color: #5e5c5c;
+    font-size: 22px;
+    background-color: rgb(245, 243, 243);
 }
 
 .pricing-table th, .pricing-table td {
     display: table-cell;
     padding: 10px;
-
+    border: solid 1px #777777;
 }
-
 
 @media(max-width: 767px) {
    .pricing-table {
@@ -443,14 +452,12 @@ button[type="submit"] {
        padding-bottom: .5em;
    }
 
-   .pricing-table td::before {
-       content:attr(data-th)": ";
+   .pricing-table td ::before {
+       content: attr(data-th)"";
        font-weight: bold;
        width: 6.5em;
        display: inline-block;
    }
-
-    
 }
 
 /*-------------------------------- Gallery ---*/
