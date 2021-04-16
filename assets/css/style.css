@@ -338,12 +338,20 @@ footer {
     margin: 0 auto;
     max-width: 70%;
 }
+.button-box {
+    text-align: center;
+}
 
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
     color: #fafafa;
     background-color: #746e6e;
+}
+
+input[type="reset"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
 }
 
 @media(min-width: 992px) {
