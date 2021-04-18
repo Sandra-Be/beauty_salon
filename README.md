@@ -42,10 +42,10 @@ This project is the best way to help clients achieve them suitable treatments th
 
 **Wireframe mockups:**
 
-* Home
-* Gallery
-* Pricing 
-* Contact Me 
+* [Home](assets/project_files/wireframes/home.bmpr)
+* [Gallery](assets/project_files/wireframes/gallery.bmpr)
+* [Pricing](assets/project_files/wireframes/pricing.bmpr) 
+* [Contact Me](assets/project_files/wireframes/contact.bmpr) 
 
 # Website design
 
@@ -72,17 +72,81 @@ The Contact Me page features a contact form. Form requests clients name, contact
 
 ## Existing features 
 
+1. Logo of Dee's Nails & Beauty exists on every page and allows for all clients to easily recognise the business brand. Clicking on the logo returns clients to the home page as they would expect.
+2. Navigation Bar is on every page and allows for all clients to easily navigate through all the website's pages and find what they are looking for quickly.
+3. Footer Copyright Info on every page protects business copyright.
+4. Footer Social Icon on every page allows for all clients to access the social platform for Dee's Nails & Beauty.
+5. Footer Download Icon on every page allows for all clients to download and save price list of the procedures of this private salon.
+6. Home Page - profile picture of Dee shows a real personal connection and clients can connect with the nail tehnician and receive emotional response. Link on the Nails will navigate clients to gallery section.
+7. Gallery Page - allows to view nail designs and price for procedure. That way clients will have better understanding about work Dee's private salon offers.
+8. Pricing Page - lists all procedures and prices. Each procedure has description which explains what is done during this procedure.
+9. Contact Me Page - offers client to send a  brief message to nail tehnician.
+
 ## Features to Implement in future
+
+1. In future website would have it's own booking system for clients.
+2. More procedures will be offered on Dee's Nails & Beauty website. 
+3. Separate platform for students/nail tehnicians to log in and learn about available courses. 
+4. Online shop to purchase products.
 
 # Technologies Used
 
-This project uses HTML5 Hypertext Markup Language (HTML) and CSS3 Cascading Style Sheets (CSS) programming languages.
+* This project uses [HTML5](https://en.wikipedia.org/wiki/HTML5) Hypertext Markup Language (HTML) and [CSS3](https://en.wikipedia.org/wiki/CSS) Cascading Style Sheets (CSS) programming languages.
+* [Bootstrap4](https://getbootstrap.com/docs/4.1/getting-started/introduction/) - to simplify the structure of the website and make the website responsive easily.
+* [Google Fonts](https://fonts.google.com/) - were used throughout the site.
+* Icons on website were added with [Font Awesome](https://fontawesome.com/).
+* [JQuery](https://jquery.com/) came with Bootstrap.
+* [Popper.js](https://popper.js.org/) reference Javascript needed for the responsive navbar.
+* Project code stored on [GitHub](https://github.com/).
+* [gitpod.io](https://gitpod.io/workspaces) was used for coding.
+* Wireframes were created on [Balsamiq](https://balsamiq.com/).
 
 # Testing
 
+* Tested on Chrome and Firefox desktop version browsers.
+* Chrome DevTools was used to test variety of devices such as Desktop, Laptop, iPhone7, iPhone 8, Galaxy S5 and iPad for responsiveness.
+* Testing was done to ensure that layout and all Links were working correctly.
+
 # Deployment
 
-## How to run this project locally
+## Deploying on GitHub Pages
+
+1. Log into [GitHub](https://github.com/) or [create an account](https://github.com/).
+2. Locate the [GitHub Repository]().
+3. At the top of the repository, select Settings from the menu items.
+4. Scroll down the Settings page to the "GitHub Pages" section.
+5. Under "Source" click the drop-down menu labelled "None" and select "Master Branch".
+6. Upon selection, the page will automatically refresh meaning that the website is now deployed.
+7. Scroll back down to the "GitHub Pages" section to retrieve the deployed link.
+8. At the time of submitting this Milestone project the Development Branch and Master Branch are identical.
+
+## Forking the Repository
+
+1. Log into [GitHub](https://github.com/) or [create an account](https://github.com/).
+2. Locate the [GitHub Repository]().
+3. At the top of the repository, on the right side of the page, select "Fork".
+4. You should now have a copy of the original repository in your GitHub account.
+
+## Creating a Clone
+
+1. Install the [GitPod Browser](https://www.gitpod.io/docs/browser-extension) Extension for Chrome.
+2. After installation, restart the browser.
+3. Log into [GitHub](https://github.com/) or [create an account](https://github.com/).
+4. Locate the [GitHub Repository]().
+5. Click the green "GitPod" button in the top right corner of the repository. This will trigger a new gitPod workspace to be created from the code in github where you can work locally.
+
+### How to run this project within a local IDE, such as VSCode:
+
+1. Log into [GitHub](https://github.com/) or [create an account](https://github.com/).
+2. Locate the [GitHub Repository]().
+3. Under the repository name, click "Clone or download".
+4. In the Clone with HTTPs section, copy the clone URL for the repository.
+5. In your local IDE open the terminal.
+6. Change the current working directory to the location where you want the cloned directory to be made.
+7. Type 'git clone', and then paste the URL you copied in Step 3.
+8. Press Enter. Your local clone will be created.
+
+Further reading and troubleshooting on cloning a repository from GitHub [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 # Credits
 
@@ -92,11 +156,23 @@ This project uses HTML5 Hypertext Markup Language (HTML) and CSS3 Cascading Styl
 * The text for the rest of the website was created for Dee’s Beauty & Nails by Sandra Berzkalna.
 * All photos used on this website were obtained from the beautician at Dee’s Beauty & Nails.
 
-## Media 
+## Code
+
+* CSS code for price list table for mobile devices was originally taken from [GlintPixel channel on YouTube](https://www.youtube.com/watch?v=_gKs9ht84uc) and then edited.
+* The idea for gallery was originally taken [from Webseotips channel on YouTube](https://www.youtube.com/watch?v=gnDOjWUSHks) and then edited.
+
+## Helpfull sites
+
+* [www.w3schools](https://www.w3schools.com/) - website for code tips.
+* [Bootstrap4](https://getbootstrap.com/docs/4.1/layout/overview/) - Bootstrap Library was used to make site responsive.
+* [stackoverflow.com](https://stackoverflow.com/) - website for code tips.
+* [learn.codeinstutute.net](https://learn.codeinstitute.net/login?next=/) - HTML, CSS and Bootstrap study materials.
 
 ## Acknowledgements 
 
-I received inspiration for this project from my sister who created this Dee’s Nails & Beauty Private Salon.
+* I received inspiration for this project from my sister who created this Dee’s Nails & Beauty Private Salon.
+* My mentor for helpful feedback.
+* Student support at Code Institute Slack platform for their support.
 
 
 
