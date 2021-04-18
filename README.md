@@ -47,28 +47,28 @@ This project is the best way to help clients achieve them suitable treatments th
 * Pricing 
 * Contact Me 
 
-# Features
+# Website design
 
 Each page features a responsive navigation bar which leads to right page and section of website. 
 The **hero image** shows up in each page to atract clients with a positive emotions giving them the sence of professonalism and trusfull environment.
-Each page has footer with copyright information and social media icon linked to beautician’s social media page.
+Each page has footer with copyright information, a price list .pdf version available to download and safe on device and social media icon linked to beautician’s social media page.
 
 **Home**
 
-The Home page is introduction about beautician, brand and workplace through video, which will attract clients. Brand images allow redirect clients to them main websites and discover more about brand.
+The Home page is an introduction about beautician, a brand and workplace through pictures, which will attract clients. Brand images allow redirect clients to them main websites and discover more about brand.
 Information about nails is linked with gallery, so clients can see by themselves the artwork on the nails by Dee.
 
 **Gallery**
 
-The Gallery page is laid out in columns of images. On the desktop gallery is laid into 3 columns, tablet into 2 columns and mobile devices shows one picture. Each picture has description underneath. Viewing images with description will provide clients more knowledge about beauticians work.
+The Gallery page is laid out in columns of card images with description. On the desktop gallery is laid into 3 columns, tablet into 2 columns and mobile devices shows one picture. Each picture has description underneath of it. Viewing images with description will provide clients more knowledge about beauticians work. On the very bottom of gallery you will find the link which will help client to get back to the top of the page.
 
 **Pricing**
 
-
+The pricing page features one table, which list procedures, description of the procedure and a prices. Table is displayed on desktop on 70%, but on mobile devices it transforms on one column where rows are stacked on top of each other.
 
 **Contact Me**
 
-The Contact Me page features a contact form. Form requests clients name, contact number and a box to leave a message. The bottom of the form contains a Send  Button.
+The Contact Me page features a contact form. Form requests clients name, contact mobile number and a textarea box to leave a message. The bottom of the form contains a Send Button and Reset Form.
 
 ## Existing features 
 
@@ -76,7 +76,7 @@ The Contact Me page features a contact form. Form requests clients name, contact
 
 # Technologies Used
 
-This project uses HTML and CSS programming languages.
+This project uses HTML5 Hypertext Markup Language (HTML) and CSS3 Cascading Style Sheets (CSS) programming languages.
 
 # Testing
 
