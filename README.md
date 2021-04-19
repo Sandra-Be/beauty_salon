@@ -6,28 +6,28 @@
 # Table of contents
 1. [Introduction](#Introduction)
 2. [UX](#UX)
-3. [Website design](#Website design)
-    1. [Wireframe mockups](#Wireframe mockups)
-    2. [Existing features](#Existing features)
-    3. [Features to Implement in future](#Features to Implement in future)
-    4. [Technologies Used](#Technologies Used)
+3. [Website design](#Websitedesign)
+    1. [Wireframe mockups](#Wireframemockups)
+    2. [Existing features](#Existingfeatures)
+    3. [Features to Implement in future](#FeaturestoImplementinfuture)
+    4. [Technologies Used](#TechnologiesUsed)
 4. [Testing](#Testing)
 5. [Deployment](#Deployment)
-    1. [Deploying on GitHub Pages](#Deploying on GitHub Pages)
-    2. [Forking the Repository](#Forking the Repository)
-    3. [Creating a Clone](#Creating a Clone)
-    4. [How to run this project within a local IDE, such as VSCode](#How to run this project within a local IDE, such as VSCode)
+    1. [Deploying on GitHub Pages](#DeployingonGitHubPages)
+    2. [Forking the Repository](#ForkingtheRepository)
+    3. [Creating a Clone](#CreatingaClone)
+    4. [How to run this project within a local IDE, such as VSCode](#HowtorunthisprojectwithinalocalIDE,suchasVSCode)
 6. [Credits](#Credits)
     1. [Content](#Content)
     2. [Code](#Code)
-    3. [Helpfull sites](#Helpfull sites)
+    3. [Helpfull sites](#Helpfullsites)
     4. [Acknowledgements](#Acknowledgements)
 
 # Introduction
 
-This website is built for the private salon for private clients by appointments only, providing a relaxed and peaceful atmosphere with a personal touch based on each client. The website features more insights about the salon itself its products and offers treatments, also a pricing list, and clear step-by-step form how to contact the salon.
+This website is built for the private salon by appointments only, providing a relaxed and peaceful atmosphere with a personal touch based on each client. The website features more insights about the salon itself its products and offers treatments, also a pricing list, and clear step-by-step form how to contact the salon.
 
-Simple, easy, and understandable website for different age group clients providing them with clear expectation of provided treatments and procedures, prices in the salon as well call to take action - to arrange the call from salon for certain procedures.
+Simple, easy, and understandable website for different age group clients providing them with clear expectation of provided treatments and procedures, prices in the salon as well call to take action - to arrange the call from salon for procedures.
 
 # UX
 
@@ -69,20 +69,20 @@ This project is the best way to help clients achieve them suitable treatments th
 
 Each page features a responsive navigation bar which leads to right page and section of website. 
 The **hero image** shows up in each page to atract clients with a positive emotions giving them the sence of professonalism and trusfull environment.
-Each page has footer with copyright information, a price list .pdf version available to download and safe on device and social media icon linked to beautician’s social media page.
+Each page has footer with copyright information, a price list .pdf version available to download and save on device and social media icon linked to beauty salon social media page.
 
 **Home**
 
 The Home page is an introduction about beautician, a brand and workplace through pictures, which will attract clients. Brand images allow redirect clients to them main websites and discover more about brand.
-Information about nails is linked with gallery, so clients can see by themselves the artwork on the nails by Dee.
+Button on the profile picture is linked with gallery, so clients can see by themselves the artwork on the nails by Dee.
 
 **Gallery**
 
-The Gallery page is laid out in columns of card images with description. On the desktop gallery is laid into 3 columns, tablet into 2 columns and mobile devices shows one picture. Each picture has description underneath of it. Viewing images with description will provide clients more knowledge about beauticians work. On the very bottom of gallery you will find the link which will help client to get back to the top of the page.
+The Gallery page is laid out into columns of card images with description. On the desktop gallery it's laid into 3 columns, tablet into 2 columns and mobile devices shows one picture. Each picture has description underneath of it. Viewing images with description will provide clients more knowledge about beauticians work. On the very bottom of gallery you will find the link which will help client to get back to the top of the page.
 
 **Pricing**
 
-The pricing page features one table, which list procedures, description of the procedure and a prices. Table is displayed on desktop on 70%, but on mobile devices it transforms on one column where rows are stacked on top of each other.
+The pricing page features one table, which list procedures, description of the procedure and a prices. Table is displayed on desktop on 70%, but on mobile devices it transforms into one column where rows are stacked on top of each other.
 
 **Contact Me**
 
