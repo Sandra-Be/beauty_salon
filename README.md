@@ -7,21 +7,21 @@
 1. [Introduction](#Introduction)
 2. [UX](#UX)
 3. [Website design](#Websitedesign)
-1. [Wireframe mockups](##Wireframemockups)
-2. [Existing features](##Existingfeatures)
-3. [Features to Implement in future](##FeaturestoImplementinfuture)
-4. [Technologies Used](##TechnologiesUsed)
+   1. [Wireframes](##Wireframes)
+   2. [Existing features](##Existingfeatures)
+   3. [Features to Implement in future](##FeaturestoImplementinfuture)
+   4. [Technologies Used](##TechnologiesUsed)
 4. [Testing](#Testing)
 5. [Deployment](#Deployment)
-1. [Deploying on GitHub Pages](##DeployingonGitHubPages)
-2. [Forking the Repository](##ForkingtheRepository)
-3. [Creating a Clone](##CreatingaClone)
-4. [How to run this project within a local IDE, such as VSCode](##HowtorunthisprojectwithinalocalIDE,suchasVSCode)
+   1. [Deploying on GitHub Pages](##DeployingonGitHubPages)
+   2. [Forking the Repository](##ForkingtheRepository)
+   3. [Creating a Clone](##CreatingaClone)
+   4. [How to run this project within a local IDE, such as VSCode](##HowtorunthisprojectwithinalocalIDE,suchasVSCode)
 6. [Credits](#Credits)
-1. [Content](##Content)
-2. [Code](##Code)
-3. [Helpfull sites](##Helpfullsites)
-4. [Acknowledgements](##Acknowledgements)
+   1. [Content](##Content)
+   2. [Code](##Code)
+   3. [Helpfull sites](##Helpfullsites)
+   4. [Acknowledgements](##Acknowledgements)
 
 # Introduction
 
@@ -88,14 +88,14 @@ The pricing page features one table, which list procedures, description of the p
 
 The Contact Me page features a contact form. Form requests clients name, contact mobile number and a textarea box to leave a message. The bottom of the form contains a Send Button and Reset Form.
 
-## Wireframe mockups
+## Wireframes
 
 [Home](assets/project_files/wireframes/home.bmpr)
 
 [Gallery](assets/project_files/wireframes/gallery.bmpr)
 
 [Pricing](assets/project_files/wireframes/pricing.bmpr)
- 
+
 [Contact Me](assets/project_files/wireframes/contact.bmpr) 
 
 ## Existing features 
