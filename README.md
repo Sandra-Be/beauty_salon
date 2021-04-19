@@ -1,6 +1,8 @@
 # Dee's Nails & Beauty
 # Private Beauty Salon
 
+![Dee's Nails & Beauty](assets/project_files/website/website_layout.png "Dee's Nails & Beauty")
+
 * [Click here](https://sandra-be.github.io/beauty_salon/) and view the live project.
 
 # Table of contents
