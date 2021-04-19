@@ -1,8 +1,20 @@
 # Dee's Beauty & Nails
-## Private Beauty Salon
-This website is built for the private salon for private clients by appointments only, providing a relaxed and peaceful atmosphere with a personal touch based on each client. The website features more insights about the salon itself its products and offers treatments, also a pricing list, and clear step-by-step how to contact the salon.
+# Private Beauty Salon
 
-Simple, easy, and understandable website for different age group clients providing them with clear expectation of provided treatments and procedures, prices in the salon as well call to take action - to arrange the call or do a booking for certain procedures.
+* [Click here](https://sandra-be.github.io/beauty_salon/) and view the live project.
+
+# Table of contents
+[# 1. Introduction](#Introduction)
+[# 2. UX](#UX)
+[# 3. Website design](#Website design)
+
+# Introduction
+
+This website is built for the private salon for private clients by appointments only, providing a relaxed and peaceful atmosphere with a personal touch based on each client. The website features more insights about the salon itself its products and offers treatments, also a pricing list, and clear step-by-step form how to contact the salon.
+
+Simple, easy, and understandable website for different age group clients providing them with clear expectation of provided treatments and procedures, prices in the salon as well call to take action - to arrange the call from salon for certain procedures.
+
+# UX
 
 The **business goals** of this website:
 
@@ -16,8 +28,6 @@ The **clients goals** of this website:
 * Searching for clear vision of the atmosphere in salon and provided service.
 * Clear and understandable information about products, procedures and prices.
 * Call to action.
-
-# UX
 
 **Ideal client** for this business is:
 
@@ -39,13 +49,6 @@ This project is the best way to help clients achieve them suitable treatments th
 4. As a new client, I want to view price list for procedures, so I can decide if I want to proceed with that.
 5. As a new client, I want to know how to contact the beautician, so I know how to enquire the information.
 6. As a client, I want to follow the salon media feed, so I can be up to date with latest information.
-
-**Wireframe mockups:**
-
-* [Home](assets/project_files/wireframes/home.bmpr)
-* [Gallery](assets/project_files/wireframes/gallery.bmpr)
-* [Pricing](assets/project_files/wireframes/pricing.bmpr) 
-* [Contact Me](assets/project_files/wireframes/contact.bmpr) 
 
 # Website design
 
@@ -70,17 +73,24 @@ The pricing page features one table, which list procedures, description of the p
 
 The Contact Me page features a contact form. Form requests clients name, contact mobile number and a textarea box to leave a message. The bottom of the form contains a Send Button and Reset Form.
 
+## Wireframe mockups:
+
+* [Home](assets/project_files/wireframes/home.bmpr)
+* [Gallery](assets/project_files/wireframes/gallery.bmpr)
+* [Pricing](assets/project_files/wireframes/pricing.bmpr) 
+* [Contact Me](assets/project_files/wireframes/contact.bmpr) 
+
 ## Existing features 
 
-1. Logo of Dee's Nails & Beauty exists on every page and allows for all clients to easily recognise the business brand. Clicking on the logo returns clients to the home page as they would expect.
-2. Navigation Bar is on every page and allows for all clients to easily navigate through all the website's pages and find what they are looking for quickly.
-3. Footer Copyright Info on every page protects business copyright.
-4. Footer Social Icon on every page allows for all clients to access the social platform for Dee's Nails & Beauty.
-5. Footer Download Icon on every page allows for all clients to download and save price list of the procedures of this private salon.
-6. Home Page - profile picture of Dee shows a real personal connection and clients can connect with the nail tehnician and receive emotional response. Link on the Nails will navigate clients to gallery section.
-7. Gallery Page - allows to view nail designs and price for procedure. That way clients will have better understanding about work Dee's private salon offers.
-8. Pricing Page - lists all procedures and prices. Each procedure has description which explains what is done during this procedure.
-9. Contact Me Page - offers client to send a  brief message to nail tehnician.
+1. **Logo** of Dee's Nails & Beauty exists on every page and allows for all clients to easily recognise the business brand. Clicking on the logo returns clients to the home page as they would expect.
+2. **Navigation Bar** is on every page and allows for all clients to easily navigate through all the website's pages and find what they are looking for quickly.
+3. **Footer** Copyright Info on every page protects business copyright.
+4. **Footer** Social Icon on every page allows for all clients to access the social platform for Dee's Nails & Beauty.
+5. **Footer** Download Icon on every page allows for all clients to download and save price list of the procedures of this private salon.
+6. **Home Page** - profile picture of Dee shows a real personal connection and clients can connect with the nail tehnician and receive emotional response. Button on a profile picture will navigate clients to gallery section. Brand logos are displayed on Home Page and buttons underneath navigate clients to brand websites.
+7. **Gallery Page** - allows to view nail designs and price for procedure. That way clients will have better understanding about work Dee's private salon offers.
+8. **Pricing Page** - lists all procedures and prices. Each procedure has description which explains what is done during this procedure.
+9. **Contact Me Page** - offers client to send a  brief message to nail tehnician.
 
 ## Features to Implement in future
 
@@ -89,7 +99,7 @@ The Contact Me page features a contact form. Form requests clients name, contact
 3. Separate platform for students/nail tehnicians to log in and learn about available courses. 
 4. Online shop to purchase products.
 
-# Technologies Used
+## Technologies Used
 
 * This project uses [HTML5](https://en.wikipedia.org/wiki/HTML5) Hypertext Markup Language (HTML) and [CSS3](https://en.wikipedia.org/wiki/CSS) Cascading Style Sheets (CSS) programming languages.
 * [Bootstrap4](https://getbootstrap.com/docs/4.1/getting-started/introduction/) - to simplify the structure of the website and make the website responsive easily.
@@ -160,6 +170,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 * CSS code for price list table for mobile devices was originally taken from [GlintPixel channel on YouTube](https://www.youtube.com/watch?v=_gKs9ht84uc) and then edited.
 * The idea for gallery was originally taken [from Webseotips channel on YouTube](https://www.youtube.com/watch?v=gnDOjWUSHks) and then edited.
+* Responsive Grid CSS layout using grid template areas for Home Page was originally taken from [Traversy Media channel on YouTube](https://www.youtube.com/watch?v=moBhzSC455o) and then modified.
 
 ## Helpfull sites
 
@@ -167,6 +178,7 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 * [Bootstrap4](https://getbootstrap.com/docs/4.1/layout/overview/) - Bootstrap Library was used to make site responsive.
 * [stackoverflow.com](https://stackoverflow.com/) - website for code tips.
 * [learn.codeinstutute.net](https://learn.codeinstitute.net/login?next=/) - HTML, CSS and Bootstrap study materials.
+* [www.markdownguide.org](https://www.markdownguide.org/basic-syntax) - useful website for Markdown language creating README.md file.
 
 ## Acknowledgements 
 
