@@ -4,7 +4,7 @@
 * [Click here](https://sandra-be.github.io/beauty_salon/) and view the live project.
 
 # Table of contents
-[# 1. Introduction](#Introduction)
+1. [Introduction](#Introduction)
 [# 2. UX](#UX)
 [# 3. Website design](#Website design)
 
