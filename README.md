@@ -20,7 +20,6 @@
    * [Deploying on GitHub Pages](#Deploying-on-GitHub-Pages)
    * [Forking the Repository](#Forking-the-Repository)
    * [Creating a Clone](#Creating-a-Clone)
-   * [How to run this project within a local IDE, such as VSCode](#How-to-run-this-project-within-a-local-IDE,-such-as-VSCode)
 6. [Credits](#Credits)
    * [Content](#Content)
    * [Code](#Code)
@@ -174,7 +173,7 @@ To validate every page of the project, that there were no syntax errors, were us
 4. Locate the [GitHub Repository](https://sandra-be.github.io/beauty_salon/).
 5. Click the green "GitPod" button in the top right corner of the repository. This will trigger a new gitPod workspace to be created from the code in github where you can work locally.
 
-## How to run this project within a local IDE, such as VSCode
+### How to run this project within a local IDE, such as VSCode
 
 1. Log into [GitHub](https://github.com/) or [create an account](https://github.com/).
 2. Locate the [GitHub Repository](https://sandra-be.github.io/beauty_salon/).
