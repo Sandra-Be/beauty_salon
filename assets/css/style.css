@@ -225,6 +225,8 @@ img {
 .emi-box {
     grid-area: emi-box;
     text-align: center;
+    background-color: #746e6e;
+    box-shadow: 0px 2px 10px rgba(83, 83, 83, 0.959);
 }
 
 .emi-box a:hover {
@@ -244,6 +246,8 @@ img {
 .staleks-box {
     grid-area: staleks-box;
     text-align: center;
+    background-color: #746e6e;
+    box-shadow: 0px 2px 10px rgba(83, 83, 83, 0.959);
 }
 
 .staleks-box a:hover {
