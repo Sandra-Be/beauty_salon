@@ -7,20 +7,21 @@
 
 # Table of contents
 
-[Introduction](#Introduction)
-[UX](#UX)
-[Website design](#Websitedesign)
+1. [Introduction](#Introduction)
+2. [UX](#UX)
+3. [Website design](#Websitedesign)
    * [Wireframes](##Wireframes)
    * [Existing features](##Existingfeatures)
    * [Features to Implement in future](##FeaturestoImplementinfuture)
    * [Technologies Used](##TechnologiesUsed)
-[Testing](#Testing)
-[Deployment](#Deployment)
+4. [Testing](#Testing)
+   * [W3C Validation](##W3CValidation)
+5. [Deployment](#Deployment)
    * [Deploying on GitHub Pages](##DeployingonGitHubPages)
    * [Forking the Repository](##ForkingtheRepository)
    * [Creating a Clone](##CreatingaClone)
    * [How to run this project within a local IDE, such as VSCode](##HowtorunthisprojectwithinalocalIDE,suchasVSCode)
-[Credits](#Credits)
+6. [Credits](#Credits)
    * [Content](##Content)
    * [Code](##Code)
    * [Helpfull sites](##Helpfullsites)
@@ -137,6 +138,13 @@ The Contact Me page features a contact form. Form requests clients name, contact
 * Tested on Chrome and Firefox desktop version browsers.
 * Chrome DevTools was used to test variety of devices such as Desktop, Laptop, iPhone7, iPhone 8, Galaxy S5 and iPad for responsiveness.
 * Testing was done to ensure that layout and all Links were working correctly.
+
+## W3C Validation
+
+To validate every page of the project, that there were no syntax errors, were used W3C Validator and W3C CSS Validator. Files of .pdf format is available under each Validator link:
+
+* [W3C Validator](assets/project_files/validators/w3c_validation.pdf)
+* [W3C CSS Validator](assets/project_files/validators/w3c_css_validation.pdf)
 
 # Deployment
 
