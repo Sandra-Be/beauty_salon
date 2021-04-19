@@ -126,20 +126,11 @@ body {
 
 /*-------------------------------- Features ---*/
 
-.feature-block {
+.feature-title {
     max-width: 80%;
     margin: 0 auto;
-    padding-bottom: 30px;
+    padding-bottom: 0;
     padding-top: 30px; 
-}
-
-.profile {
-    background: url("../images/profile/prof_photo.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 360px;
-    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.30);
 }
 
 .feature-heading h1 {
@@ -167,89 +158,117 @@ body {
     margin-bottom: 40px;
     font-weight: bold;
     text-align: center;
-    font-size: 20px;
+    font-size: 25px;
 }
 
-.bg-color-nails {
-    background-color: rgb(252, 239, 222);
-    margin-left: 20px;
-    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.20);
-    margin-top: 15px;
-    vertical-align: middle;
+img {
+    max-width: 100%;
 }
 
-.nails-title {
-    text-align: center;
+.feature-container {
+    max-width: 80%;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-areas:
+        'profile profile emi-box-logo'
+        'profile profile emi-box'
+        'profile profile staleks-box-logo'
+        'profile profile staleks-box';
 }
 
-.nails-title a {
-    text-decoration: none;
-}
-
-.bg-color-nails a p:hover {
-    color: red;
-}
-
-.nails {
-    font-family: "Lato", sans-serif;
-    font-weight: bold;
-    font-size: 46px;
-    margin-top: 20px;
-    color:#5e5c5c;
-}
-
-.description {
-    font-size: 18px;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    font-family: "Lato", sans-serif;
-    color: #5e5c5c;
-    font-weight: bold;
-}
-
-.nails-brand-box {
-    vertical-align: middle;
-}
-
-.nails-brand-box .brand-box {
-    background-color: rgb(252, 239, 222);
-    margin-left: 20px;
-    margin-top: 30px; 
-    text-align: center;
-    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.20);
-    display: block; 
-    padding: 0 35px;  
-}
-
-.nails-brand-box .brand-box p {
-    font-family: 'Lato', sans-serif;
-    text-align: center;
-    font-size: 20px;
-    color: #5e5c5c;
-    vertical-align: middle;
-}
-
-.brand-box-logo {
-    vertical-align: middle;
-    display: block;
-}
-
-.emi-box img {
-    width: 200px;
-    height: 120px;
-    padding-bottom: 10px;
+.profile {
+    grid-area: profile;
+    min-height: 620px;
+    background: url(../images/profile/prof_photo.jpg);
+    background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-    
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    box-shadow: 0px 2px 10px rgba(83, 83, 83, 0.959);
 }
 
-.staleks-box img {
-    width: 200px;
-    height: 120px;
-    padding-bottom: 10px;
+.profile h1 {
+    font-size: 50px;
+    margin-bottom: 0;
+    color: #fafafa;
+    font-weight: bold;
+    padding-top: 100px;
+    padding-bottom: 15px;
+}
+
+.profile p {
+    font-size: 22px;
+    margin-top: 0;
+    color: #fafafa;
+    font-weight: bold;
+}
+
+.profile a:hover {
+    background: red;
+    border-color: red;
+}
+
+.emi-box-logo {
+    grid-area: emi-box-logo;
+    min-height: 250px;
+    background: url(../images/profile/emi_logo.jpg);
+    background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-    
+    box-shadow: 0px 2px 10px rgba(83, 83, 83, 0.959);
+}
+
+.emi-box {
+    grid-area: emi-box;
+    text-align: center;
+}
+
+.emi-box a:hover {
+    background: red;
+    border-color: red;
+}
+
+.staleks-box-logo {
+    grid-area: staleks-box-logo;
+    min-height: 250px;
+    background: url(../images/profile/staleks_logo3.png);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 2px 10px rgba(83, 83, 83, 0.959);
+}
+
+.staleks-box {
+    grid-area: staleks-box;
+    text-align: center;
+}
+
+.staleks-box a:hover {
+    background: red;
+    border-color: red;
+}
+
+@media screen and (max-width: 992px) {
+    .feature-container {
+        grid-template-areas: 
+            'profile profile'
+            'emi-box-logo staleks-box-logo'
+            'emi-box staleks-box';
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .feature-container {
+        grid-template-areas: 
+            'profile'
+            'emi-box-logo'
+            'emi-box'
+            'staleks-box-logo'
+            'staleks-box';
+    }
 }
 
 /*-------------------------------- Footer ---*/
@@ -361,6 +380,11 @@ button[type="submit"] {
 input[type="reset"] {
     margin-top: 15px;
     margin-bottom: 20px;
+}
+
+button[type="submit"]:hover {
+    background: red;
+    border-color: red;
 }
 
 @media(min-width: 992px) {
