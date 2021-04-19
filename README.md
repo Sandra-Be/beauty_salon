@@ -1,12 +1,27 @@
-# Dee's Beauty & Nails
+# Dee's Nails & Beauty
 # Private Beauty Salon
 
 * [Click here](https://sandra-be.github.io/beauty_salon/) and view the live project.
 
 # Table of contents
 1. [Introduction](#Introduction)
-[# 2. UX](#UX)
-[# 3. Website design](#Website design)
+2. [UX](#UX)
+3. [Website design](#Website design)
+    1. [Wireframe mockups](#Wireframe mockups)
+    2. [Existing features](#Existing features)
+    3. [Features to Implement in future](#Features to Implement in future)
+    4. [Technologies Used](#Technologies Used)
+4. [Testing](#Testing)
+5. [Deployment](#Deployment)
+    1. [Deploying on GitHub Pages](#Deploying on GitHub Pages)
+    2. [Forking the Repository](#Forking the Repository)
+    3. [Creating a Clone](#Creating a Clone)
+    4. [How to run this project within a local IDE, such as VSCode](#How to run this project within a local IDE, such as VSCode)
+6. [Credits](#Credits)
+    1. [Content](#Content)
+    2. [Code](#Code)
+    3. [Helpfull sites](#Helpfull sites)
+    4. [Acknowledgements](#Acknowledgements)
 
 # Introduction
 
@@ -73,12 +88,12 @@ The pricing page features one table, which list procedures, description of the p
 
 The Contact Me page features a contact form. Form requests clients name, contact mobile number and a textarea box to leave a message. The bottom of the form contains a Send Button and Reset Form.
 
-## Wireframe mockups:
+## Wireframe mockups
 
-* [Home](assets/project_files/wireframes/home.bmpr)
-* [Gallery](assets/project_files/wireframes/gallery.bmpr)
-* [Pricing](assets/project_files/wireframes/pricing.bmpr) 
-* [Contact Me](assets/project_files/wireframes/contact.bmpr) 
+[Home](assets/project_files/wireframes/home.bmpr)
+[Gallery](assets/project_files/wireframes/gallery.bmpr)
+[Pricing](assets/project_files/wireframes/pricing.bmpr) 
+[Contact Me](assets/project_files/wireframes/contact.bmpr) 
 
 ## Existing features 
 
@@ -145,7 +160,7 @@ The Contact Me page features a contact form. Form requests clients name, contact
 4. Locate the [GitHub Repository](https://sandra-be.github.io/beauty_salon/).
 5. Click the green "GitPod" button in the top right corner of the repository. This will trigger a new gitPod workspace to be created from the code in github where you can work locally.
 
-### How to run this project within a local IDE, such as VSCode:
+## How to run this project within a local IDE, such as VSCode
 
 1. Log into [GitHub](https://github.com/) or [create an account](https://github.com/).
 2. Locate the [GitHub Repository](https://sandra-be.github.io/beauty_salon/).
@@ -162,9 +177,9 @@ Further reading and troubleshooting on cloning a repository from GitHub [here](h
 
 ## Content
 
-* The text for the Home, About Me and Pricing pages was created by Dee’s Beauty & Nails  and edited by Sandra Berzkalna.
-* The text for the rest of the website was created for Dee’s Beauty & Nails by Sandra Berzkalna.
-* All photos used on this website were obtained from the beautician at Dee’s Beauty & Nails.
+* The text for the Pricing page was created by Dee’s Nails & Beauty and edited by Sandra Berzkalna.
+* The text for the rest of the website was created for Dee’s Nails & Beauty by Sandra Berzkalna.
+* All photos used on this website were obtained from the beautician at Dee’s Nails & Beauty.
 
 ## Code
 
