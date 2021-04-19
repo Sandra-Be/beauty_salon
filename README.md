@@ -6,24 +6,25 @@
 * [Click here](https://sandra-be.github.io/beauty_salon/) and view the live project.
 
 # Table of contents
-1. [Introduction](#Introduction)
-2. [UX](#UX)
-3. [Website design](#Websitedesign)
-   1. [Wireframes](##Wireframes)
-   2. [Existing features](##Existingfeatures)
-   3. [Features to Implement in future](##FeaturestoImplementinfuture)
-   4. [Technologies Used](##TechnologiesUsed)
-4. [Testing](#Testing)
-5. [Deployment](#Deployment)
-   1. [Deploying on GitHub Pages](##DeployingonGitHubPages)
-   2. [Forking the Repository](##ForkingtheRepository)
-   3. [Creating a Clone](##CreatingaClone)
-   4. [How to run this project within a local IDE, such as VSCode](##HowtorunthisprojectwithinalocalIDE,suchasVSCode)
-6. [Credits](#Credits)
-   1. [Content](##Content)
-   2. [Code](##Code)
-   3. [Helpfull sites](##Helpfullsites)
-   4. [Acknowledgements](##Acknowledgements)
+
+[Introduction](#Introduction)
+[UX](#UX)
+[Website design](#Websitedesign)
+   * [Wireframes](##Wireframes)
+   * [Existing features](##Existingfeatures)
+   * [Features to Implement in future](##FeaturestoImplementinfuture)
+   * [Technologies Used](##TechnologiesUsed)
+[Testing](#Testing)
+[Deployment](#Deployment)
+   * [Deploying on GitHub Pages](##DeployingonGitHubPages)
+   * [Forking the Repository](##ForkingtheRepository)
+   * [Creating a Clone](##CreatingaClone)
+   * [How to run this project within a local IDE, such as VSCode](##HowtorunthisprojectwithinalocalIDE,suchasVSCode)
+[Credits](#Credits)
+   * [Content](##Content)
+   * [Code](##Code)
+   * [Helpfull sites](##Helpfullsites)
+   * [Acknowledgements](##Acknowledgements)
 
 # Introduction
 
