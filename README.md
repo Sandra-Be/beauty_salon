@@ -161,7 +161,7 @@ Simple question were asked: "What would you like to see on website to get to kno
 ## Skeleton
 ### Quick sketch
 
-![Quick sketch](assets/project_files/website/strategy.png "Quick sketch")
+![Quick sketch](assets/project_files/website/sketch.jpg "Quick sketch")
 
 ### Wireframes
 
