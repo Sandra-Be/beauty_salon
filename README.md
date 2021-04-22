@@ -156,7 +156,7 @@ Simple question were asked: "What would you like to see on website to get to kno
 ## Structure
 ### Site structure
 
-![Structure](assets/project_files/website/strategy.png "Structure")
+![Structure](assets/project_files/website/structure.png "Structure")
 
 ## Skeleton
 ### Quick sketch
@@ -300,7 +300,7 @@ To validate every page of the project, that there were no syntax errors, were us
 6. Change the current working directory to the location where you want the cloned directory to be made.
 7. Type 'git clone', and then paste the URL you copied in Step 3.
 
-git clone https://github.com/USERNAME/REPOSITORY
+> git clone https://github.com/USERNAME/REPOSITORY
 
 8. Press Enter. Your local clone will be created.
 
