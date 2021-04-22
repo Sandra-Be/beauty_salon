@@ -9,37 +9,83 @@
 
 1. [Introduction](#Introduction)
 2. [UX](#UX)
-3. [Website design](#Website-design)
-   * [Wireframes](#Wireframes)
-   * [Existing features](#Existing-features)
-   * [Features to Implement in future](#Features-to-Implement-in-future)
-   * [Technologies Used](#Technologies-Used)
+   * [Strategy](#Strategy)
+      * [Website strategy](#Website-strategy)
+      * [Target audience](#Target-audience)
+      * [External Visitor's goal's](#External-Visitor's-goal's)
+      * [Site Owner's goal's](#Site-Owner's-goal's)
+   * [Scope](#Scope)
+      * [Features](#Features)
+      * [Content](#Content)
+   * [Structure](#Structure)
+      * [Structure](#Structure)
+   * [Skeleton](#Skeleton)
+      * [Quick sketch](#Quick-sketch)
+      * [Wireframes](#Wireframes)
+   * [Design](#Design)
+      * [Colour scheme](#Colour-scheme)
+      * [Fonts](#Fonts)
+      * [Media](#Media)
+      * [Languages](#Languages)
+      * [Technologies Used](#Technologies-Used) 
+3. [Completed Live Site](#Completed-Live-Site)   
 4. [Testing](#Testing)
    * [W3C Validation](#W3C-Validation)
+   * [User stories testing](#User-stories-testing)
+   * [Function testing](#Function-testing)
 5. [Deployment](#Deployment)
    * [Deploying on GitHub Pages](#Deploying-on-GitHub-Pages)
    * [Forking the Repository](#Forking-the-Repository)
    * [Creating a Clone](#Creating-a-Clone)
 6. [Credits](#Credits)
-   * [Content](#Content)
-   * [Code](#Code)
    * [Helpfull sites](#Helpfull-sites)
    * [Acknowledgements](#Acknowledgements)
 
 # Introduction
 
-This website is built for the private salon by appointments only, providing a relaxed and peaceful atmosphere with a personal touch based on each client. The website features more insights about the salon itself its products and offers treatments, also a pricing list, and clear step-by-step form how to contact the salon.
+This website is built for the private salon by appointments only, providing a relaxed and peaceful atmosphere with a personal touch based on each client. The website features more insights about the salon, its products and offered proceduress, also a pricing list, and clear step-by-step form how to contact the salon.
 
-Simple, easy, and understandable website for different age group clients providing them with clear expectation of provided treatments and procedures, prices in the salon as well call to take action - to arrange the call from salon for procedures.
+Simple, easy, and understandable website for different age group clients providing them with clear expectation of provided procedures, prices in the salon as well call to take action - to arrange the call from salon for procedures.
+
+This website tries to address the needs of clients to find all the information that they need to make a decision to contact salon.
 
 # UX
 
+## Strategy
+### Website strategy
+
+* Create online presence
+* Promote buisiness
+* Display gallery with nail designs
+* Provide prices of procedures
+* Provide contact option for clients
+* Provide opportunity to download and save "Price List" on the device
+* Provide social link for salon
+
+![Strategy](assets/project_files/website/strategy.png "Strategy")
+
+Existing and potencional clients were contacted via phone and questioned about potencional website for Dee's Nails & Beauty.
+20 existing clients
+18 potencional clients
+Simple question were asked: "What would you like to see on website to get to know Dee's Nails & Beauty salon better?".
+90% of all clients wanted to see images of the procedures and prices. 10% of clients were either not interested at that moment or knew already how to get in touch with Dee's Beauty & Nails salon.
+
+### Target audience
+
+* Clients looking for personal nail tehnician
+* Clients looking for nail designs
+* Existing clients
+* Clients who follow fashion and newest trends
+* Fashion bloggers
+* Brides and bridesmaids
+
+
 The **business goals** of this website:
 
-* Build awareness of the private salon and it’s exclusive brand and products.
-* Provide private procedures.
-* Build the loyal client base.
-* Drive the sales.
+* Build awareness of the private salon and it’s exclusive brand and products
+* Provide private procedures
+* Build the loyal client base
+* Drive the sales
 
 The **clients goals** of this website:
 
