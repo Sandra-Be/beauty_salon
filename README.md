@@ -36,7 +36,7 @@
 4. [Testing](#Testing)
    * [W3C Validation](#W3C-Validation)
    * [User stories testing](#User-stories-testing)
-   * [Function testing](#Function-testing)
+   * [Functional testing](#Function-testing)
 5. [Deployment](#Deployment)
    * [Deploying on GitHub Pages](#Deploying-on-GitHub-Pages)
    * [Forking the Repository](#Forking-the-Repository)
@@ -116,7 +116,7 @@ Simple question were asked: "What would you like to see on website to get to kno
 ### User stories
 
 1. As a new client to this website, I want to find information quick and easy navigating through website, so I can find what I need.
-2. As a new client to this website, I want to get quality of the products and procedures are done, so I can trust in the service.
+2. As a new client to this website, I want to get quality of the procedures are done, so I can trust in the service.
 3. As a new client to this website, I want to learn more about beautician, so I can feel connection with person. 
 4. As a new client, I want to view price list for procedures, so I can decide if I want to proceed with that.
 5. As a new client, I want to know how to contact the beautician, so I know how to enquire the information.
@@ -260,7 +260,40 @@ To validate every page of the project, that there were no syntax errors, were us
 
 ## User stories testing
 
-## Function testing
+Each User story is tested throughout the website.
+
+   > 1. As a new client to this website, I want to find information quick and easy navigating through website, so I can find what I need.
+
+Navigation bar is implemented into website, so any new client is able to find information quick and easy.
+
+
+   > 2. As a new client to this website, I want to get quality of the procedures are done, so I can trust in the service.
+
+Gallery page shows quality images of procedures and description, so any new client can see by themself and make a decision.
+
+
+   > 3. As a new client to this website, I want to learn more about beautician, so I can feel connection with person.
+
+Home page reviews beauticians profile picture, so any new client can see real person behind this service and can connect.
+
+
+   > 4. As a new client, I want to view price list for procedures, so I can decide if I want to proceed with that.
+
+Pricing page reviews a table with prices and also detailed description about procedures, also on the bottom of page any client has access to download "Price List" file for any device. From this any new client can decide if they want to proceed.
+
+
+   > 5. As a new client, I want to know how to contact the beautician, so I know how to enquire the information.
+
+Contact Me page represents contact form where any new client can enquire any information from beautician. Filling out the form and proceeding with Send button will generate report with thank you message and that beautician will be in contact with client as soon as possible. Unfortunately with my knowledge level at this moment message won't be sent to actual beautician, but this will be implemented in the future.
+
+
+   > 6. As a client, I want to follow the salon media feed, so I can be up to date with latest information.
+
+On each webpage footer section any client can find link to social media and clicking on it will be redirected to beauticians social media feed, so any client can follow up with the latest information.
+
+
+
+## Functional testing
 
 # Deployment
 
@@ -300,7 +333,7 @@ To validate every page of the project, that there were no syntax errors, were us
 6. Change the current working directory to the location where you want the cloned directory to be made.
 7. Type 'git clone', and then paste the URL you copied in Step 3.
 
-> git clone https://github.com/USERNAME/REPOSITORY
+   > git clone https://github.com/USERNAME/REPOSITORY
 
 8. Press Enter. Your local clone will be created.
 
