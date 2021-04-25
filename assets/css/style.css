@@ -31,8 +31,6 @@ body {
 
 /*---------------------------- Header ---*/
 
-
-
 #logo {
   float: left;
   width: 140px;
@@ -92,10 +90,7 @@ body {
     }
 }
 
-
 /*----------------------------- Hero-image ---*/
-
-
 
 .column {
   float: left;
@@ -208,11 +203,6 @@ img {
     font-weight: bold;
 }
 
-.profile a:hover {
-    background: red;
-    border-color: red;
-}
-
 .emi-box-logo {
     grid-area: emi-box-logo;
     min-height: 250px;
@@ -220,18 +210,6 @@ img {
     background-size: cover;
     background-position: center;
     box-shadow: 0px 2px 10px rgba(83, 83, 83, 0.959);
-}
-
-.emi-box {
-    grid-area: emi-box;
-    text-align: center;
-    background-color: #746e6e;
-    box-shadow: 0px 2px 10px rgba(83, 83, 83, 0.959);
-}
-
-.emi-box a:hover {
-    background: red;
-    border-color: red;
 }
 
 .staleks-box-logo {
@@ -243,16 +221,10 @@ img {
     box-shadow: 0px 2px 10px rgba(83, 83, 83, 0.959);
 }
 
-.staleks-box {
-    grid-area: staleks-box;
+.brand-box .btn {
+    display: block;
     text-align: center;
-    background-color: #746e6e;
-    box-shadow: 0px 2px 10px rgba(83, 83, 83, 0.959);
-}
-
-.staleks-box a:hover {
-    background: red;
-    border-color: red;
+    margin: auto;
 }
 
 @media screen and (max-width: 992px) {
@@ -560,4 +532,73 @@ button[type="submit"]:hover {
 }
 .gallery-back-link a:hover {
     color: red;
+}
+
+/*-------------------------------- Report ---*/
+
+.report-box {
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    background: #746e6e;
+    margin: 30px 50px;
+    line-height: 1.5;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.message-box {
+    display: grid;
+    grid-gap: 20px;
+    background: rgb(245, 243, 243);
+    padding: 30px 50px;
+}
+
+.message {
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: repeat(2, 1fr);
+    
+}
+
+.message img {
+    max-width: 100%;
+    box-shadow: 0px 2px 10px rgba(83, 83, 83, 0.959);
+    padding: 30px 40px;
+}
+
+.message h2 {
+    font-size: 35px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.message p {
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.btn:hover {
+    background: red;
+    border-color: red;
+}
+
+@media (max-width: 700px) {
+    .message {
+        grid-template-columns: 1fr;
+    }
+
+    .report-box {
+        padding: 0;
+    }
+
+    .message h2 {
+        font-size: 30px;
+        font-family: 'Lato', sans-serif;
+        font-weight: bold;
+    }
+
+    .btn {
+        margin-top: 10px;
+    }
 }
