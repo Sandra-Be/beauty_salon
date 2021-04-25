@@ -311,9 +311,25 @@ On each webpage footer section any client can find link to social media and  by 
 
 ## Functional testing
 
+Throughout website every link, button, icon and image was tested and all results are displayed in table below:
+
 | Location | Type | Expected Result | Actual Result | Pass/Fail/Not executed|
 | :----: | :----: | :----: | :----: | :----: |
-| Home, Gallery, Pricing and Contact Me pages | Dee's Nails & Beauty logo image | Click on Logo navigates to Home page | Click on Logo navigates to Home page | Pass |
+| Header | Dee's Nails & Beauty *logo* image | Click on *Logo* navigates to Home page | Navigates to Home page | Pass |
+| Header | *Home* link | Click on *Home* link navigates to Home page | Navigates to Home page | Pass |
+| Header | *Gallery* link | Click on *Gallery* link navigates to Gallery page | Navigates to Gallery page | Pass |
+| Header | *Pricing* link | Click on *Pricing* link navigates to Pricing page | Navigates to Pricing page | Pass |
+| Header | *Contact Me* link | Click on *Contact Me* link navigates to Contact Me page | Navigates to Contact Me page | Pass |
+| Footer | *Download icon* | Click on icon navigates to new page with price_list.pdf file in it | Navigates to new page with price_list.pdf file | Pass |
+| Footer | *Instagram icon* | Click on icon navigates to Instagram social media feed | Navigates to Instagram social media feed | Pass |
+| Home page | Button *Click here* on profile picture | Click on button navigates to Gallery page | Navigates to Gallery page | Pass |
+| Home page | Button *Read More* underneath EMI Logo | Click on Button navigates to website www.https://shop.emischool.ie | Navigates to website www.https://shop.emischool.ie | Pass |
+| Home page | Button *Read More* underneath STALEKS Logo | Click on Button navigates to website www.https://staleks.ie | Navigates to website www.https://staleks.ie | Pass |
+| Gallery page | *Back to top* link | Click on link navigates to Gallery pages header | Navigates to Gallery pages header | Pass |
+| Contact Me page | *Send* button | Click on button navigates to Report page | Navigates to Report page | Pass |
+| Contact Me page | *Reset Form* button | Click on button clears all inserted information on form | Clears all inserted information on form | Pass |
+| Report page | *Back to Contact Form* button | Click on button navigates to Contact Me page | Navigates to Contact Me page | Pass |
+| Report page | *Back to Home* button | Click on button navigates to Home page | Navigates to Home page | Pass |
 
 
 # Deployment
