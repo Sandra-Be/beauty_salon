@@ -152,6 +152,8 @@ Simple question were asked: "What would you like to see on website to get to kno
    * Table with price list
 7. Contact Me page
    * Contact Form
+8. Report page - added as per mentors advice
+   * Thank you message
 
 ## Structure
 ### Site structure
@@ -226,6 +228,10 @@ The pricing page features one table, which list procedures, description of the p
 
 The Contact Me page features a contact form. Form requests clients name, contact mobile number and a textarea box to leave a message. The bottom of the form contains a Send Button and Reset Form Button.
 
+**Report**
+
+This page contains thank you message for clients who submitted message to salon. Two buttons are provided for clients to choose either return to Contact Me page or Home page. This page was added later as per mentors advice.
+
 ## Existing features 
 
 1. **Logo** of Dee's Nails & Beauty exists on every page and allows for all clients to easily recognise the business brand. Clicking on the logo clients are navigated to the home page as they would expect.
@@ -237,6 +243,7 @@ The Contact Me page features a contact form. Form requests clients name, contact
 7. **Gallery Page** - allows to view nail designs and price for procedure. That way clients will have better understanding about work Dee's private salon offers.
 8. **Pricing Page** - lists all procedures and prices. Each procedure has description which explains what is done during this procedure.
 9. **Contact Me Page** - offers client to send a brief message to nail tehnician.
+10. **Report Page** - views thank you message and buttons to return to Contact Me page or Home page.
 
 ## Features to Implement in future
 
