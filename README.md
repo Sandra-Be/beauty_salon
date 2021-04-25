@@ -265,8 +265,15 @@ Each User story is tested throughout the website.
    > 1. As a new client to this website, I want to find information quick and easy navigating through website, so I can find what I need.
 
 Navigation bar is implemented into website, so any new client is able to find information quick and easy.
+This Navigation bar is implemented on desktop, laptop and tablet:
 
-![Navigation bar](assets/project_files/website/user_story1.png "Navigation bar") ![Navigation bar](assets/project_files/website/user_story12.png "Navigation bar")
+![Navigation bar](assets/project_files/website/user_story1.png "Navigation bar")
+
+This Navigation bar is implemented on mobile view:
+
+![Navigation bar](assets/project_files/website/user_story12.png "Navigation bar")
+
+
 
    > 2. As a new client to this website, I want to get quality of the procedures are done, so I can trust in the service.
 
@@ -274,11 +281,15 @@ Gallery page shows quality images of procedures and description, so any new clie
 
 ![Gallery](assets/project_files/website/user_story2.png "Gallery")
 
+
+
    > 3. As a new client to this website, I want to learn more about beautician, so I can feel connection with person.
 
 Home page reviews beauticians profile picture, so any new client can see real person behind this service and can connect.
 
 ![Home page](assets/project_files/website/user_story3.png "Home page")
+
+
 
    > 4. As a new client, I want to view price list for procedures, so I can decide if I want to proceed with that.
 
@@ -286,17 +297,23 @@ Pricing page reviews a table with prices and also detailed description about pro
 
 ![Price List](assets/project_files/website/user_story4.png "Price List")
 
+
+
    > 5. As a new client, I want to know how to contact the beautician, so I know how to enquire the information.
 
 Contact Me page represents contact form where any new client can enquire any information from beautician. Filling out the form and proceeding with Send button will generate report with thank you message and that beautician will be in contact with client as soon as possible. Unfortunately with my knowledge level at this moment message won't be sent to actual beautician, but this will be implemented in the future.
 
 ![Contact Form](assets/project_files/website/user_story5.png "Contact Form")
 
+
+
    > 6. As a client, I want to follow the salon media feed, so I can be up to date with latest information.
 
 On each webpage footer section any client can find link to social media and  by clicking on it client will be redirected to beauticians social media feed, so any client can follow up with the latest information.
 
 ![Follow Me](assets/project_files/website/user_story6.png "Follow Me")
+
+
 
 ## Functional testing
 
