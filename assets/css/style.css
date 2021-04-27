@@ -352,6 +352,8 @@ button[type="submit"] {
     margin-bottom: 20px;
     color: #fafafa;
     background-color: #746e6e;
+    width: 100%;
+    display: block;
 }
 
 @media(min-width: 992px) {
