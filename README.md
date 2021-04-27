@@ -272,25 +272,25 @@ To validate every page of the project, that there were no syntax errors, were us
 
 These warnings repeats throughout all html files.
 
-| *Warning:* | The document is not mappable to XML 1.0 due to two consecutive hyphens in a comment. |
+* *Warning:* The document is not mappable to XML 1.0 due to two consecutive hyphens in a comment.
 
 Warning fixed removing consecutive hyphens.
 
-| *Warning:* | Section lacks heading. Consider using h2 - h6 elements to add identifying headings to all sections. |
+* *Warning:* Section lacks heading. Consider using h2 - h6 elements to add identifying headings to all sections.
 
 Section contains only images.
 
 **W3C CSS Validator**
 
- 273 -> **-webkit-transition** is an unknown vendor extension 
- 274 -> **-o-transition** is an unknown vendor extension 
- 287 -> **-moz-transition** is an unknown vendor extension 
- 288 -> **-webkit-transition** is an unknown vendor extension 
- 289 -> **-o-transition** is an unknown vendor extension 
+* 273 -> **-webkit-transition** is an unknown vendor extension
+* 274 -> **-o-transition** is an unknown vendor extension
+* 287 -> **-moz-transition** is an unknown vendor extension
+* 288 -> **-webkit-transition** is an unknown vendor extension
+* 289 -> **-o-transition** is an unknown vendor extension 
 
 These all extensions are removed. The icons has hover attribute and icons change colour when hovered over. There is no need for these extensions in code.
 
-| 576 | .btn:hover | Same color for **background-color** and **border-color** |
+* 576 .btn:hover -> Same color for **background-color** and **border-color** 
 
 Button on hovering turns completely red. Attribute is there for a reason. 
 
