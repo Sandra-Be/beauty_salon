@@ -226,7 +226,7 @@ The pricing page features one table, which list procedures, description of the p
 
 **Contact Me**
 
-The Contact Me page features a contact form. Form requests clients name, contact mobile number and a textarea box to leave a message. The bottom of the form contains a Send Button and Reset Form Button.
+The Contact Me page features a contact form. Form requests clients name, contact mobile number and a textarea box to leave a message. The bottom of the form contains a Send Button.
 
 **Report**
 
@@ -242,7 +242,7 @@ This page contains thank you message for clients who submitted message to salon.
 6. **Home Page** - profile picture of Dee shows a real personal connection and clients can connect with the nail tehnician and receive emotional response. Button on a profile picture navigate clients to gallery section. Brand logos are displayed on Home Page and buttons underneath navigate clients to brand websites.
 7. **Gallery Page** - allows to view nail designs and price for procedure. That way clients will have better understanding about work Dee's private salon offers.
 8. **Pricing Page** - lists all procedures and prices. Each procedure has description which explains what is done during this procedure.
-9. **Contact Me Page** - offers client to send a brief message to nail tehnician.
+9. **Contact Me Page** - offers client to send a brief message to nail tehnician and re-directs to to Report page.
 10. **Report Page** - views thank you message and buttons to return to Contact Me page or Home page.
 
 ## Features to Implement in future
@@ -334,7 +334,6 @@ Throughout website every link, button, icon and image was tested and all results
 | Home page | Button *Read More* underneath STALEKS Logo | Click on Button navigates to website www.https://staleks.ie | Navigates to website www.https://staleks.ie | Pass |
 | Gallery page | *Back to top* link | Click on link navigates to Gallery pages header | Navigates to Gallery pages header | Pass |
 | Contact Me page | *Send* button | Click on button navigates to Report page | Navigates to Report page | Pass |
-| Contact Me page | *Reset Form* button | Click on button clears all inserted information on form | Clears all inserted information on form | Pass |
 | Report page | *Back to Contact Form* button | Click on button navigates to Contact Me page | Navigates to Contact Me page | Pass |
 | Report page | *Back to Home* button | Click on button navigates to Home page | Navigates to Home page | Pass |
 
