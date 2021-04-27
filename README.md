@@ -282,11 +282,11 @@ Section contains only images.
 
 **W3C CSS Validator**
 
-| 273 | **-webkit-transition** is an unknown vendor extension |
-| 274 | **-o-transition** is an unknown vendor extension |
-| 287 | **-moz-transition** is an unknown vendor extension |
-| 288 | **-webkit-transition** is an unknown vendor extension |
-| 289 | **-o-transition** is an unknown vendor extension |
+ 273 -> **-webkit-transition** is an unknown vendor extension 
+ 274 -> **-o-transition** is an unknown vendor extension 
+ 287 -> **-moz-transition** is an unknown vendor extension 
+ 288 -> **-webkit-transition** is an unknown vendor extension 
+ 289 -> **-o-transition** is an unknown vendor extension 
 
 These all extensions are removed. The icons has hover attribute and icons change colour when hovered over. There is no need for these extensions in code.
 
