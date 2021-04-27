@@ -342,6 +342,7 @@ footer {
     margin: 0 auto;
     max-width: 70%;
 }
+
 .button-box {
     text-align: center;
 }
@@ -351,16 +352,6 @@ button[type="submit"] {
     margin-bottom: 20px;
     color: #fafafa;
     background-color: #746e6e;
-}
-
-input[type="reset"] {
-    margin-top: 15px;
-    margin-bottom: 20px;
-}
-
-button[type="submit"]:hover {
-    background: red;
-    border-color: red;
 }
 
 @media(min-width: 992px) {
@@ -562,7 +553,7 @@ button[type="submit"]:hover {
 
 .message img {
     max-width: 100%;
-    box-shadow: 0px 2px 10px rgba(83, 83, 83, 0.959);
+    box-shadow: 0px 2px 10px rgba(247, 9, 9, 0.959);
     padding: 30px 40px;
 }
 
@@ -570,6 +561,7 @@ button[type="submit"]:hover {
     font-size: 35px;
     font-family: 'Lato', sans-serif;
     font-weight: bold;
+    color: red;
 }
 
 .message p {
