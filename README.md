@@ -208,7 +208,7 @@ This project uses [HTML5](https://en.wikipedia.org/wiki/HTML5) Hypertext Markup 
 
 * [Click here](https://sandra-be.github.io/beauty_salon/) and view the live project.
 
-Each page features a responsive navigation bar which leads to right page and section of website. 
+Each page features a responsive fixed on top navigation bar which leads to right page and section of website. 
 The **hero image** shows up in each page to atract clients with a positive emotions giving them the sence of professonalism and trusfull environment.
 Each page has footer with copyright information, a "Price list" .pdf version available to download and save on device and social media icon linked to beauty salon social media page.
 
@@ -227,7 +227,7 @@ The pricing page features one table, which list procedures, description of the p
 
 **Contact Me**
 
-The Contact Me page features a contact form. Form requests clients name, contact mobile number and a textarea box to leave a message. The bottom of the form contains a Send Button.
+The Contact Me page features a contact form. Form requests clients name, contact mobile number and a textarea box to leave a message. The bottom of the form contains a Send Message button.
 
 **Report**
 
@@ -236,7 +236,7 @@ This page contains thank you message for clients who submitted message to salon.
 ## Existing features 
 
 1. **Logo** of Dee's Nails & Beauty exists on every page and allows for all clients to easily recognise the business brand. Clicking on the logo clients are navigated to the home page as they would expect.
-2. **Navigation Bar** is on every page and allows for all clients to easily navigate through all the website's pages and find what they are looking for quickly.
+2. **Navigation Bar** is fixed on top on every page and allows for all clients to easily navigate through all the website's pages and find what they are looking for quickly.
 3. **Footer** Copyright Info on every page protects business copyright.
 4. **Footer** Social Icon on every page allows for all clients to access the social platform for Dee's Nails & Beauty.
 5. **Footer** Download Icon on every page allows for all clients to download and save "Price list" of the procedures of this private salon.
@@ -333,7 +333,7 @@ Pricing page reviews a table with prices and also detailed description about pro
 
    > 5. As a new client, I want to know how to contact the beautician, so I know how to enquire the information.
 
-Contact Me page represents contact form where any new client can enquire any information from beautician. Filling out the form and proceeding with Send button will generate report with thank you message and that beautician will be in contact with client as soon as possible. Unfortunately with my knowledge level at this moment message won't be sent to actual beautician, but this will be implemented in the future.
+Contact Me page represents contact form where any new client can enquire any information from beautician. Filling out the form and proceeding with Send Message button will generate report with thank you message and that beautician will be in contact with client as soon as possible. Unfortunately with my knowledge level at this moment message won't be sent to actual beautician, but this will be implemented in the future.
 
 ![Contact Form](assets/project_files/website/user_story5.png "Contact Form")
 
@@ -362,7 +362,7 @@ Throughout website every link, button, icon and image was tested and all results
 | Home page | Button *Read More* underneath EMI Logo | Click on Button navigates to website www.https://shop.emischool.ie | Navigates to website www.https://shop.emischool.ie | Pass |
 | Home page | Button *Read More* underneath STALEKS Logo | Click on Button navigates to website www.https://staleks.ie | Navigates to website www.https://staleks.ie | Pass |
 | Gallery page | *Back to top* link | Click on link navigates to Gallery pages header | Navigates to Gallery pages header | Pass |
-| Contact Me page | *Send* button | Click on button navigates to Report page | Navigates to Report page | Pass |
+| Contact Me page | *Send Message* button | Click on button navigates to Report page | Navigates to Report page | Pass |
 | Report page | *Back to Contact Form* button | Click on button navigates to Contact Me page | Navigates to Contact Me page | Pass |
 | Report page | *Back to Home* button | Click on button navigates to Home page | Navigates to Home page | Pass |
 
