@@ -522,18 +522,18 @@ button[type="submit"] {
 
 .report-box {
     box-sizing: border-box;
-    font-family: 'Lato', sans-serif;
-    background: #746e6e;
-    margin: 30px 50px;
+    font-family: 'Lato', sans-serif; 
+    background: #c2bfbf; 
+    margin: 30px 50px; 
     line-height: 1.5;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 100px; 
 }
 
 .message-box {
     display: grid;
     grid-gap: 20px;
-    background: rgb(245, 243, 243);
+    background-color: rgb(245, 243, 243); 
     padding: 30px 50px;
 }
 
@@ -541,7 +541,7 @@ button[type="submit"] {
     display: grid;
     grid-gap: 40px;
     grid-template-columns: repeat(2, 1fr);
-    
+    background-color: rgb(245, 243, 243); 
 }
 
 .message img {
