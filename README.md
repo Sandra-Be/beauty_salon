@@ -71,9 +71,11 @@ This website addresses the needs of clients to find all the information that the
 
 ![Strategy](assets/project_files/website/strategy.png "Strategy")
 
-Existing and potentional clients were contacted via phone and questioned about potentional website for Dee's Nails & Beauty.
-20 existing clients
-18 potentional clients
+Existing and potentional clients were contacted via phone and questioned about a potentional website for Dee's Nails & Beauty.
+
+1. 20 existing clients
+2. 18 potentional clients
+
 A simple question was asked: "What would you like to see on the website to get to know Dee's Nails & Beauty salon better?".
 90% of all the clients wanted to see images of the procedures and prices. 10% of clients were either not interested at that moment or knew already how to get in touch with Dee's Beauty & Nails salon.
 
